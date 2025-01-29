@@ -1,7 +1,7 @@
 # Awesome Project Build with TypeORM
 
-Steps to run this project:
+## para rodar o projeto é necessario clonar e baixar as dependencias, dê um *git clone https://github.com/LeviVromao/teste_hooklab.git* e depois *npm install* no terminal.
 
-1. Run `npm i` command
-2. Setup database settings inside `data-source.ts` file
-3. Run `npm start` command
+# Para testar se esta rodando é necessário usar uma ferramenta para testar APIs, como *Postman* ou *Insomnia*.
+
+# Fiz todas as rotas que foram pedidas no PDF.
